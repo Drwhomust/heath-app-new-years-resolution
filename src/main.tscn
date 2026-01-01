@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Title" type="Label" parent="."]
+margin_left = 34.0
+margin_top = 17.0
+margin_right = 117.0
+margin_bottom = 38.0
+text = "Welcome!!"
