@@ -1,7 +1,7 @@
 # heath-app-new-years-resolution
 Small app for me and my new year resolution
 
-This is a very personal app i made using [Love](https://www.love2d.org/) because i am very fat and chunky
+This is a very personal app i made because i am very fat and chunky
 
 So to help me lose weight I want to exercise more! So I am setting my self a goal of walking around 20 minutes on a treadmill every day for the year
 
